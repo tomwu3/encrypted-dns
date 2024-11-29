@@ -9,13 +9,8 @@
 			<dict>
 				<key>DNSProtocol</key>
 				<string>HTTPS</string>
-				<key>ServerAddresses</key>
-				<array>
-					<string>101.226.4.6</string>
-					<string>218.30.118.6</string>
-				</array>
 				<key>ServerURL</key>
-				<string>https://doh.360.cn/dns-query</string>
+				<string>https://dns.5687031.xyz/dns-query</string>
 			</dict>
 			<key>PayloadDescription</key>
 			<string>Configures device to use 360 Public Security DNS over HTTPS</string>
